@@ -4,7 +4,7 @@ I'm a beginner FullStack Developer with great interest in learning and developme
 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olha-hnatenko)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gnatenkoolgaig1210@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Gmail-label?style=flat&logo=gmail&logoColor=%23EA4335&labelColor=white&color=%23EA4335)](mailto:gnatenkoolgaig1210@gmail.com)
 
 Technologies:
 
