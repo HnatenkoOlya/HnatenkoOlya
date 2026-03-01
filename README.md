@@ -3,23 +3,24 @@ I'm a beginner FullStack Developer with great interest in learning and developme
 
 📫 How to reach me:
 
-[![Static Badge](https://img.shields.io/badge/LINKEDIN-zxcvb?style=flat&logoColor=white&labelColor=blue&color=blue&link=www.linkedin.com%2Fin%2Folha-hnatenko)
-](www.linkedin.com/in/olha-hnatenko)
-[![Static Badge](https://img.shields.io/badge/Gmail-label?style=flat&logo=gmail&logoColor=white&labelColor=red&color=red&link=gnatenkoolgaig1210%40gmail.com)
-](gnatenkoolgaig1210@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olha-hnatenko)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gnatenkoolgaig1210@gmail.com)
 
 Technologies:
 
+![Static Badge](https://img.shields.io/badge/React-label?style=flat&logo=react&logoColor=blue&labelColor=black&color=blue)
+![Static Badge](https://img.shields.io/badge/JAVASCRIPT-label?style=flat&logo=javascript&logoColor=yellow&labelColor=black&color=yellow)
+![Static Badge](https://img.shields.io/badge/CSS-label?style=flat&logo=css&logoColor=purple&labelColor=black&color=purple)
+![Static Badge](https://img.shields.io/badge/NODE-label?style=flat&logo=nodedotjs&logoColor=%235FA04E&labelColor=black&color=%235FA04E)
+![Static Badge](https://img.shields.io/badge/TypeScript-label?style=flat&logo=typescript&logoColor=%233178C6&labelColor=black&color=%233178C6)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HnatenkoOlya&theme=default)
+
+
+
+
+
+
 <!--
-**HnatenkoOlya/HnatenkoOlya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Static Badge](https://img.shields.io/badge/Gmail-label?style=flat&logo=gmail&logoColor=white&labelColor=red&color=red)](mailto:gnatenkoolgaig1210@gmail.com)
 -->
