@@ -3,8 +3,8 @@ I'm a beginner FullStack Developer with great interest in learning and developme
 
 📫 How to reach me:
 
-![Static Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white&labelColor=red)
-[![Static Badge](https://img.shields.io/badge/LINKEDIN-blue?style=flat&logoColor=white&labelColor=blue)](www.linkedin.com/in/olha-hnatenko)
+[![Static Badge](https://img.shields.io/badge/LINKEDIN-zxcvb?style=flat&logoColor=white&labelColor=blue&color=blue&link=www.linkedin.com%2Fin%2Folha-hnatenko)
+](www.linkedin.com/in/olha-hnatenko)
 
 
 
